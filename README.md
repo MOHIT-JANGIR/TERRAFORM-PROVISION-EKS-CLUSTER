@@ -1,3 +1,3 @@
 # Terraform - Provisioning an EKS Cluster
 
-## Description:- A terraform module to create a managed Kubernetes cluster on AWS EKS.
+## <b><u>Description</u></b>:- A terraform module to create a managed Kubernetes cluster on AWS EKS.
